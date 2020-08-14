@@ -1,2 +1,2 @@
 # gros
-rotbot os for golang
+robot os for golang
